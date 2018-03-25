@@ -1,7 +1,8 @@
 # social_network
 Social Network Management
-put the SocialNetwork.txt with the program file under the same folder 
-test on python3.5, 3.6
+
+* put the SocialNetwork.txt with the program file under the same folder 
+* test on python3.5, 3.6
 
 ## Quick Start
 
