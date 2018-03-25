@@ -7,6 +7,6 @@ Social Network Management
 ## Quick Start
 
 
-	Read help first                         $ python SocialNetworkManagement.py -h
-	Runing the program with defaults        $ python SocialNetworkManagement.py
-	with name A and Name B                  $ python SocialNetworkManagement.py -a GARY_TANDUS -b OWEN_COTON
+	Runing the program with default         $ python SocialNetworkManagement.py
+	Read help                               $ python SocialNetworkManagement.py -h
+	try other name A and Name B             $ python SocialNetworkManagement.py -a STACEY_STRIMPLE -b RICH_OMLI
